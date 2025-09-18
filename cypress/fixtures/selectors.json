@@ -1,0 +1,10 @@
+{
+    "mail": "#mail",
+    "pass": "#pass",
+    "loginButton": "#loginButton",
+    "forgotEmailButton": "#forgotEmailButton",
+    "mailForgot": "#mailForgot",
+    "restoreEmailButton": "#restoreEmailButton",
+    "messageHeader": "#messageHeader",
+    "exitMessageButton": "#exitMessageButton > .exitIcon"
+}
